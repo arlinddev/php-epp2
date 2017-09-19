@@ -1,15 +1,15 @@
 {
-    "name": "africc/php-epp2",
+    "name": "arlinddev/php-epp2",
     "type": "library",
     "description": "A High Level EPP (Extensible Provisioning Protocol) TCP/SSL Client for PHP",
-    "keywords": ["epp", "domains", "registrar", "registry", "client", "tcp"],
-    "homepage": "https://github.com/AfriCC/php-epp2",
+    "keywords": ["marnet", ".mk", "WHMCS", "epp", "domains", "registrar", "registry", "client", "tcp"],
+    "homepage": "https://github.com/arlinddev/php-epp2",
     "license": "GPL-3.0+",
     "authors": [
         {
-            "name": "Gunter Grodotzki",
-            "email": "hello@afri.cc",
-            "homepage": "https://www.afri.cc",
+            "name": "Arlind Musliu",
+            "email": "arlinddev@gmail.com",
+            "homepage": "www.arlindmusliu.com",
             "role": "Developer"
         }
     ],
